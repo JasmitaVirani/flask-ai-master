@@ -1,0 +1,5 @@
+flask
+dlib
+cv2
+datetime
+pusher
